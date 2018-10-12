@@ -1,11 +1,3 @@
 # SoftwareList
 
-This repository is meant to store the list of software that ORCCA Lab members have to share. Any
-
-# bbercovici
-
-## SBGAT
-
-## OrbitConversions
-
-## RigidBodyKinematics
+https://docs.google.com/spreadsheets/d/1oitdDGpAW-_oSo6-80D5-yQuVB_VfOrz1OaURC3N8lg/edit?usp=sharing
